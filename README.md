@@ -2,9 +2,10 @@
 <p align="center">
   Data-Driven Thinker • Aspiring Data Scientist Bootcamp Grad from TripleTen • QA Tester Jr • Tech Enthusiast 💻📊  
   <br>
-  <a href="mailto:linsayrodriguez92@gmail.com">linsayrodriguez92@gmail.com</a> • 
-  <a href="https://linkedin.com/in/linsayrodriguez92">LinkedIn</a>
+  <a href="https://linkedin.com/in/linsayrodriguez92"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>
+  <a href="mailto:linsayrodriguez92@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat" /></a>
 </p>
+
 
 ---
 
@@ -34,17 +35,4 @@
 
 - Passionate about digital wellness, learning languages, and tech for good.
 - Always eager to collaborate and grow — let’s connect!
-
 ---
-
-## 🔗 Let's Connect!
-
-<p align="left">
-  <a href="https://linkedin.com/in/linsayrodriguez92"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>
-  <a href="mailto:linsayrodriguez92@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=flat" /></a>
-</p>
-
----
-
-<sub>✨ Open to new opportunities and collaborations!</sub>
-
