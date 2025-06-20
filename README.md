@@ -23,7 +23,7 @@
 - 🛍️ **[Instacart Customer Behavior Analysis](#)**  
   Exploratory data analysis and interactive visualizations to uncover shopping trends.
 
-- 🚕 **[Chicago Taxi Trips](#)**  
+- 🚕 **[Chicago Taxi Trips](#)** https://github.com/linsayr/chicago-taxi-analysis.git  
   Data exploration and hypothesis testing on public transportation data.
 
 - 📱 **[Megaline Plan Classifier](#)**  
