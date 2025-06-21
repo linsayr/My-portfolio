@@ -20,7 +20,7 @@
 
 ## 🚀 Featured Projects
 
-- 🛍️ **[Instacart Customer Behavior Analysis](#)**  
+- 🛍️ **[Instacart Customer Behavior Analysis](https://github.com/linsayr/instacart-customer-analysis.git)**  
   Exploratory data analysis and interactive visualizations to uncover shopping trends.
 
 - 🚕 **[Chicago Taxi Trips](https://github.com/linsayr/chicago-taxi-analysis)** 
